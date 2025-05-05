@@ -1,0 +1,1 @@
+This repository contains the input files for MD and L-ABF simulations of Riboswitch-like RNA inhibitors used in the study "Targeting RNA with Small Molecules using State-of-the-Art Methods Provides Highly Predictive Affinities of Riboswitch Inhibitors" (doi:10.26434/chemrxiv-2024-s2lqq-v2) 
